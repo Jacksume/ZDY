@@ -1,8 +1,16 @@
-﻿港澳台频道,#genre#
+央视奥运频道,#genre#
+CCTV16奥运频道,http://39.134.3.73:6610/000000001666/100000000100111091/1.m3u8
+CCTV16奥运频道,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV5+,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
+CCTV5,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+
+港澳台频道,#genre#
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 FoxNews,http://60.251.59.179:8511/index.m3u8
 Disney,http://60.251.59.179:8520/index.m3u8
 FOX娱乐,http://60.251.59.179:8522/index.m3u8
