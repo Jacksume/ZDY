@@ -188,10 +188,8 @@ TLC,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b250000
 KBSWorld,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
 A3 Bikini TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 Victoria S Secret TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
-CNBC (1080p) [Not 24/7],http://s1.mysportz.tv:2082/CNBC/playlist.m3u8
-CNBC TV 18 (504p),https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-CNN (720p),http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
-CNN Brasil (1080p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+CNN International Europe (720p),https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+CNN International UK (720p) [Not 24/7],https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Fox 23 Tulsa OK (KOKI-TV) (720p),https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
 Fox 28 Savannah GA (WTGS) (720p),https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 Fox Boston MA (WFXT1) (720p) [Not 24/7],http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
