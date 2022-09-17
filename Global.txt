@@ -305,6 +305,7 @@ HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 澳门莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳门莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花卫视,https://p.ggiptv.com/v/macaulotustv.php
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
@@ -330,7 +331,6 @@ HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 澳门体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 澳门体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
 澳门体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 台湾频道,#genre#
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
