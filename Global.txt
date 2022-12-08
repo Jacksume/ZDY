@@ -440,8 +440,10 @@ Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+AfricaNews,https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Australia Channel News,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
@@ -450,13 +452,16 @@ BBC World News,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/pl
 BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
 
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
+Bloomberg Quicktake (1080p),https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 Bloomberg Quicktake (720p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
 Bloomberg TV Asia (720p),https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 Bloomberg TV Australia (720p),https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 Bloomberg TV Australia (270p),https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
 Bloomberg TV Europe (720p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+Bloomberg TV Europe (720p),https://bloomberg.com/media-manifest/streams/eu.m3u8
 Bloomberg TV Europe (360p),https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+Bloomberg TV US (1080p),https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Bloomberg TV US (720p),https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Bloomberg TV US (720p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Bloomberg TV US (360p),https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
@@ -464,6 +469,7 @@ Bloomberg TV US (360p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-
 Bloomberg TV US (180p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNN International Europe (720p),https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 CNN International UK (720p) [Not 24/7],https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -472,6 +478,7 @@ DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream
 DW News,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 DW News,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 Euronews,https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+Euronews,https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
 France 24,http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
 France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
@@ -483,10 +490,15 @@ NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/pl
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 
 FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+RT America,https://rt-usa.rttv.com/live/rtusa/playlist.m3u8
+RT UK,https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 Sky News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 Sky News,http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
+Sky News,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+The Wall Street Journal Live,https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
+WION,https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 FOXSport1,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 FOXSport2,http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -542,6 +554,61 @@ ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/ab
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 ABC News New York NY (WABC-TV) (720p),https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
+Movies,#genre#
+24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
+Moovimex (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+Movie box,https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+Movie Kingdom (720p),https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+Movie Plus (540p),http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
+MovieFe (360p) [Not 24/7],https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+MovieSphere (1080p),https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+My Cinema (1080p),http://210.210.155.37/uq2663/h/h192/index.m3u8
+My Cinema Asia (1080p) [Geo-blocked],http://210.210.155.37/uq2663/h/h193/index.m3u8
+My Cinema Europe (576p),http://210.210.155.37/uq2663/h/h18/index.m3u8
+Mythos,https://simultv.s.llnwi.net/o058/Mythos/interlink.m3u8
+MyTime movie network (1080p),https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+MyTime movie network Brazil (720p),https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+MyTime movie network Mexico (720p),https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+MyTime movie network Spain (1080p),https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+NETV Toronto (720p) [Not 24/7],https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+Rai Movie (576p) [Geo-blocked],https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+Rakuten Action Movies,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+Rakuten Action Movies Germany (720p),https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action Movies Italy (720p),https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action Movies UK (720p),https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies Austria (720p),https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies France (720p),https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies Germany (720p),https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies Italy (720p),https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies Spain (720p),https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies UK (720p),https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Drama,https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8
+Rakuten Family,https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
+Rakuten Family (720p),https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+Rakuten Family UK (720p),https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight Austria (720p),https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight France (720p),https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
+Rakuten Spotlight Germany (720p),https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight Italy (720p),https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight Spain (720p),https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight UK (720p),https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Draama,https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Films Action (720p),https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+Rakuten TV Huippuelokuvat,https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Komedia,https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Perhe,https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Rakuten Stories,https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten TV Toiminta,https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
+Redbox 1: Spotlight (1080p),https://spotlight-redbox.amagi.tv/playlist.m3u8
+Retro Plus 3 (720p),https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+Rotana Cinema (1080p),https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Rotana Cinema KSA (1080p),https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+Weyyak Action (1080p),https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+Weyyak Drama (720p),https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+Wildside TV (720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+WOWOW Cinema (720p),http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
+Wu Tang Collection (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+
 美国VIPS,#genre#
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 ANIMAL PLANET HD,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
@@ -571,8 +638,6 @@ FTV④,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_ad
 FTV④,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 Bloomberg Quicktake (720p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
-
-
 
 IPV6,#genre#
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
