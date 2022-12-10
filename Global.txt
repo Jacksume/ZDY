@@ -671,12 +671,14 @@ DW News,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.
 Euronews,https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 Euronews,https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
+FASHION 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 France 24,http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
 France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 France 24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 France 24,http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
 Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Gusto TV,https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 Love Nature (1080p),http://bamus-eng-roku.amagi.tv/playlist.m3u8
 Newsmax,https://newsmax-samsungus.amagi.tv/playlist.m3u8
@@ -685,6 +687,8 @@ NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/pl
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 Mav TV Motorsports Network,https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
 FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Red Bull TV UHD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
+
 RT America,https://rt-usa.rttv.com/live/rtusa/playlist.m3u8
 RT UK,https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 Sky News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
@@ -799,6 +803,20 @@ ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/ab
 ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 ABC News New York NY (WABC-TV) (720p),https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+CBS NY,https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-1&x=1
+CBS SAN FRANCISCO,https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-1&x=1
+CBS 5 ARIZONA,https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-1&x=1
+NBC NY,https://v-ny.mybtv.net/live/548.m3u8?env=prd&uid=-1&x=1
+NBC 4 LA,https://v-la.mybtv.net/live/82.m3u8?env=prd&uid=-1&x=1
+NBC SAN FRANCISCO,https://v-ca.mybtv.net/live/121.m3u8?env=prd&uid=-1&x=1
+FOX NY,https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-1&x=1
+Fox CFB LA,https://v-la.mybtv.net/live/166.m3u8?env=prd&uid=-1&x=1
+Fox SAN FRANCISCO,https://v-ca.mybtv.net/live/170.m3u8?env=prd&uid=-1&x=1
+Fox 10 Arizona,https://v-px.mybtv.net/live/14.m3u8?env=prd&uid=-1&x=1
+ABC NY,https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-1&x=1
+ABC LA,https://v-la.mybtv.net/live/88.m3u8?env=prd&uid=-1&x=1
+ABC Localish LA,https://v-la.mybtv.net/live/89.m3u8?env=prd&uid=-1&x=1
+ABC SAN FRANCISCO,https://v-ca.mybtv.net/live/119.m3u8?env=prd&uid=-1&x=1
 
 Movies,#genre#
 24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
