@@ -637,7 +637,7 @@ Australia Channel News,https://austchannel-live.akamaized.net/hls/live/2002729/a
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 BBC World News,BBC News,http://ip2121.com:8081/live/bbc/playlist.m3u8#https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
-BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
+BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8#http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/bbcnews_twn/playlist.m3u8
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
 BBC World News,http://78.83.191.18:8000/play/a07a
@@ -664,7 +664,7 @@ CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6#https://list.iptvcat.com/my_list/s/b4a3e8de2af3cdd1d00c2e02fa126cd9.m3u8#http://ip2121.com:8081/live/cnn/playlist.m3u8
 CNN International Europe (720p),https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-CNN International UK (720p) [Not 24/7],https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+CNN,http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/cnn_twn/playlist.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Duck TV,https://mmm-ducktv-4-ie.samsung.wurl.tv/playlist.m3u8
@@ -673,11 +673,12 @@ DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream
 
 DW News,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 DW News,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
-Euronews,https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+Euronews,https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8#https://euronews.alteox.app/hls/en_stream.m3u8
 Euronews,https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
 FASHION 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-France 24,http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+France 24,http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/france24.m3u8
+
 France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 France 24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 France 24,http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
