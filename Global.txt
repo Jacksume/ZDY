@@ -394,7 +394,7 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 宿豫综合频道,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 
 
-港澳台2022,#genre#
+港澳台,#genre#
 翡翠台,https://2022.stream-link.org/playlist/tvb_jade
 華麗(翡翠)台,https://2022.stream-link.org/playlist/astro_jade
 八度空間,https://2022.stream-link.org/playlist/8tv
@@ -432,6 +432,68 @@ TVBS財經,https://2022.stream-link.org/playlist/tvbs
 Love Nature,https://2022.stream-link.org/playlist/love_nature
 東森yoyo,https://2022.stream-link.org/playlist/ebc_yoyo
 華視(2023台中新站跨年演唱會),https://2022.stream-link.org/playlist/cts_2023
+翡翠台,http://2021.stream-link.org/tv/249bda09b9ead8492f6cbc1edaa67d4d
+Astro-翡翠台,http://2021.stream-link.org/tv/bf9d083a89067291120961d15aaa75af
+八度空間,http://2021.stream-link.org/tv/583ec0dbef635189c1a0fba9e3e3cac3
+無綫新聞台,http://2021.stream-link.org/tv/f04ad19846558065745ef1874b313ec9
+無綫財經·體育·資訊台,http://2021.stream-link.org/tv/26e287b47bcff5cd72126e314e9520ac
+港台电视31,http://2021.stream-link.org/tv/444760d805832e1bca76c69faf4e077d
+港台电视32,http://2021.stream-link.org/tv/6bbd59bec6631f2bfa8ab577cd97cba1
+有線新聞台,http://2021.stream-link.org/tv/b4372b1710a165150a0d38afaa595c6c
+有線財經資訊台,http://2021.stream-link.org/tv/3bc5b338371f04360dd007a46adb5eb5
+now新聞,http://2021.stream-link.org/tv/eb6b7e097a29a43177a2538134717fa0
+now財經台,http://2021.stream-link.org/tv/d6c2a66e9743bccc9a10f391d730a809
+now精選體育台,http://2021.stream-link.org/tv/8adde112b81a8336b0a6a07a37ace202
+香港開電視,http://2021.stream-link.org/tv/32c432003402f21b70c74f43c73b3e74
+鳳凰資訊台,http://2021.stream-link.org/tv/dff0a3858e411f0c84e13cf008f916c7
+鳳凰中文台,http://2021.stream-link.org/tv/ad172d56d43339e9097020d8e74340dd
+東森新聞,http://2021.stream-link.org/tv/cb1ffc31f8c0e20781fefd9b122421ec
+東森財經新聞,http://2021.stream-link.org/tv/8a402de99df6eb512a340da187ddbe89
+中天新聞,http://2021.stream-link.org/tv/64f0b1a9a522c98e4a8c655e74084729
+中視新聞,http://2021.stream-link.org/tv/7f4e2bcb3a48ac6bb2ee17e8ccfc1b47
+民視新聞,http://2021.stream-link.org/tv/c31f7df5e931e1e433c6ba747b5807a4
+寰宇國際新聞,http://2021.stream-link.org/tv/674862afb8d1b3aea6f37a3c79e28241
+寰宇台灣新聞,http://2021.stream-link.org/tv/7331930d901c469f086ddf54f03ebede
+三立財經新聞,http://2021.stream-link.org/tv/9cd9af460274639e2307b4a7a9be4563
+三立新聞,http://2021.stream-link.org/tv/315cb520b75cd522d070e545491e508b
+三立新聞+,http://2021.stream-link.org/tv/5d2c44e8933464ccfbe124cee7465e30
+台視新聞,http://2021.stream-link.org/tv/fb618b8313eaf064ac542c879b48c178
+TVBS新聞,http://2021.stream-link.org/tv/a8d6372d250f8e93a4f6c42c7b85b847
+TVBS財經,http://2021.stream-link.org/tv/b0fce51682aa6af19bafe203c2affe17
+天才衝衝衝,http://2021.stream-link.org/tv/826f68adc6adbaf47c3278c7720fd1de
+翡翠台,http://2020.stream-link.org/playlist/tvb_jade
+華麗(翡翠)台,http://2020.stream-link.org/playlist/astro_jade
+八度空間,http://2020.stream-link.org/playlist/8tv
+無綫新聞台,http://2020.stream-link.org/playlist/tvb_news
+無綫財經·體育·資訊台,http://2020.stream-link.org/playlist/tvb_finance
+有線新聞,http://2020.stream-link.org/playlist/cable_news
+有線財經,http://2020.stream-link.org/playlist/cable_finance
+香港開電視,http://2020.stream-link.org/playlist/hoy
+now新聞,http://2020.stream-link.org/playlist/now_news
+now財經,http://2020.stream-link.org/playlist/now_finance
+now精選體育,http://2020.stream-link.org/playlist/now_sports
+鳳凰中文台,http://2020.stream-link.org/playlist/phtv_live
+鳳凰資訊台,http://2020.stream-link.org/playlist/phtv_info
+澳門蓮花衛視,http://2020.stream-link.org/playlist/macau_lotustv
+東森新聞,http://2020.stream-link.org/playlist/ebc_news
+東森財經新聞,http://2020.stream-link.org/playlist/ebc_finance
+中天新聞,http://2020.stream-link.org/playlist/cti_news
+中視新聞,http://2020.stream-link.org/playlist/ctv_news
+民視新聞,http://2020.stream-link.org/playlist/ftv_news
+寰宇國際新聞,http://2020.stream-link.org/playlist/global_news
+寰宇台灣新聞,http://2020.stream-link.org/playlist/global_tw
+三立財經新聞,http://2020.stream-link.org/playlist/set_inews
+三立新聞,http://2020.stream-link.org/playlist/set_news
+三立新聞+,http://2020.stream-link.org/playlist/set_news+
+台視新聞,http://2020.stream-link.org/playlist/ttv_news
+TVBS新聞,http://2020.stream-link.org/playlist/tvbs_news
+TVBS,http://2020.stream-link.org/playlist/tvbs
+華視天才衝衝衝,http://2020.stream-link.org/playlist/cts_zy
+三立綜合台,http://2022.stream-link.org/playlist/set_zh
+TVBS精彩台,http://2022.stream-link.org/playlist/tvbs_jc
+中天綜合台,http://2022.stream-link.org/playlist/cti_zh
+Love Nature,http://2022.stream-link.org/playlist/love_nature
+東森yoyo,http://2020.stream-link.org/playlist/ebc_yoyo
 
 港澳频道,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
@@ -647,7 +709,6 @@ BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b250000
 BBC World News,http://78.83.191.18:8000/play/a07a
 BBC World News,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
 BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
-
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 Bloomberg Quicktake (1080p),https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
@@ -672,9 +733,7 @@ CNN,http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/cnn_twn/playlist
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Duck TV,https://mmm-ducktv-4-ie.samsung.wurl.tv/playlist.m3u8
-
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-
 DW News,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 DW News,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 Euronews,https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8#https://euronews.alteox.app/hls/en_stream.m3u8
@@ -682,7 +741,6 @@ Euronews,https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
 FASHION 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 France 24,http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/france24.m3u8
-
 France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 France 24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 France 24,http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
@@ -699,7 +757,6 @@ NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580
 Mav TV Motorsports Network,https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
 FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Red Bull TV UHD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
-
 RT America,https://rt-usa.rttv.com/live/rtusa/playlist.m3u8
 RT UK,https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 Sky News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
@@ -719,8 +776,6 @@ FOXLife,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 TLC,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 KBS World,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
 Pluto TV News,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
-
-
 Circle (1080p),https://circle-samsung.amagi.tv/playlist.m3u8
 Clarity 4K (2160p),https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 Crime 360 (720p),https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -841,7 +896,6 @@ Movies Kingdom,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 Flix,http://b1g.one//live/40404040/60606060/8021.ts
 Netflix Movies,http://starshare.live:8080//live/24321463/35245125/29365.ts
 Netflix Movies-2,http://starshare.live:8080//live/24321463/35245125/29366.ts
-
 24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
 Moovimex (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
