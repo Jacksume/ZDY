@@ -398,6 +398,11 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 仪征生活频道,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8
 宿豫综合频道,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 
+纪录片,#genre#
+四季之庭,https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/35/83/19378335/19378335_da3-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1683777359&gen=playurlv2&os=08ctbv&oi=17627301&trid=b4f87482dcd648da981f6e16a154d4e7h&mid=0&platform=html5&upsig=91ad5738edba2cd56be786dbae2bc569&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&bw=53167&logo=80000000
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+Love Nature (1080p),http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 港澳频道,#genre#
 翡翠台,http://23.237.10.66:16410
