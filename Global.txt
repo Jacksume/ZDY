@@ -138,6 +138,9 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 测试,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 4K超高清电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8 
 湖南电影,http://124.232.231.246:6610/000000001001/201600020005/index.m3u8?A=&IASHttpSessionId=OTT
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+Love Nature (1080p),http://bamus-eng-roku.amagi.tv/playlist.m3u8
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
@@ -398,14 +401,50 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 仪征生活频道,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8
 宿豫综合频道,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 
-纪录片,#genre#
-四季之庭,https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/35/83/19378335/19378335_da3-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1683777359&gen=playurlv2&os=08ctbv&oi=17627301&trid=b4f87482dcd648da981f6e16a154d4e7h&mid=0&platform=html5&upsig=91ad5738edba2cd56be786dbae2bc569&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&bw=53167&logo=80000000
-四季之庭,https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/35/83/19378335/19378335_da3-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1683827603&gen=playurlv2&os=08ctbv&oi=1921313500&trid=5b49fa90bb554a738395c071efcd335dT&mid=3493116386478737&platform=html5&upsig=e17727e4804e02a8c59fa187731ff7c9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&bw=53167&orderid=0,1&buvid=&build=0&mobi_app=&logo=80000000
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-Love Nature (1080p),http://bamus-eng-roku.amagi.tv/playlist.m3u8
-
 港澳频道,#genre#
+凤凰中文,http://124.236.64.52/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰资讯,http://124.236.64.52/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
+港台電視31,http://cdn.hkdtmb.com/hls/31/index.m3u8
+港台電視32,http://cdn.hkdtmb.com/hls/32/index.m3u8
+港台電視33,http://cdn.hkdtmb.com/hls/33/index.m3u8
+CGTN紀錄頻道,http://cdn.hkdtmb.com/hls/34/index.m3u8
+香港國際財經台,http://cdn.hkdtmb.com/hls/76/index.m3u8
+HOY TV,http://cdn.hkdtmb.com/hls/77/index.m3u8
+HOY TV 資訊台,http://cdn.hkdtmb.com/hls/78/index.m3u8
+翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8
+J2台,http://cdn.hkdtmb.com/hls/82/index.m3u8
+無綫新聞台,http://cdn.hkdtmb.com/hls/83/index.m3u8
+明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
+無綫財經·資訊台,http://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTVSix,http://cdn.hkdtmb.com/hls/96/index.m3u8
+ViuTV,http://cdn.hkdtmb.com/hls/99/index.m3u8
+有線 財經資訊台,http://cdn.hkdtmb.com/hls/108/index.m3u8
+有線 新聞台,http://cdn.hkdtmb.com/hls/109/index.m3u8
+有線 直播新聞台,http://cdn.hkdtmb.com/hls/110/index.m3u8
+Now 新聞台,http://cdn.hkdtmb.com/hls/332/index.m3u8
 翡翠台,http://23.237.10.66:16410
 全球財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 全球財經台,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
@@ -417,31 +456,6 @@ Love Nature (1080p),http://bamus-eng-roku.amagi.tv/playlist.m3u8
 香港國際財經台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-凤凰资讯http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
-凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 翡翠台,http://113.64.147.72:808/hls/67/index.m3u8 
