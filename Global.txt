@@ -619,9 +619,13 @@ Love Nature (1080p),http://bamus-eng-roku.amagi.tv/playlist.m3u8
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
-纪录片,,#genre#
+
+纪录片,#genre#
 塔莎·杜朵 一个人的田园生活,http://upos-sz-mirror08c.bilivideo.com/upgcxcode/43/30/963273043/963273043-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859IB_&uipk=5&nbs=1&deadline=1685696196&gen=playurlv2&os=08cbv&oi=1921313500&trid=4b178049b7824277b30e3d3d72654f4ft&mid=3493297538467925&platform=android_tv_yst&upsig=35c663c98708793b9a85950431588bcc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&bw=41013&orderid=0,3&buvid=&build=0&logo=80000000
 塔莎·杜朵 一个人的田园生活,https://upos-sz-mirrorali.bilivideo.com/upgcxcode/43/30/963273043/963273043-1-208.mp4?e=ig8euxZM2rNcNbN3hwdVhwdlhb4VhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1685701501&gen=playurlv2&os=alibv&oi=1921313500&trid=6783b161889846feaae9bfb13b6c55baT&mid=3493297544759482&platform=html5&upsig=1bca9e94a66136fa6e91118d177bc044&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&bw=280501&orderid=0,1&buvid=&build=0&mobi_app=&logo=80000000
+卡妈的村舍花园 春季篇,https://upos-sz-mirrorctos.bilivideo.com/upgcxcode/28/20/945532028/945532028-1-192.mp4?e=ig8euxZM2rNcNbRanWdVhwdlhWuHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1685704791&gen=playurlv2&os=ctosbv&oi=1921313500&trid=1ff5b95ed3fe4959808e7e72fcdfe80fT&mid=3493297548953879&platform=html5&upsig=de97f855c7c47c782310611789c06274&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&bw=179928&orderid=0,1&buvid=&build=0&mobi_app=&logo=80000000
+卡妈的村舍花园 春季篇,http://115.218.70.185:4480/upgcxcode/28/20/945532028/945532028-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859IB_&uipk=5&nbs=1&deadline=1685697591&gen=playurlv2&os=mcdn&oi=1921313500&trid=0000b84eb946f4dc417bb36c736dc21e1e23t&mid=3493297546857410&platform=android_tv_yst&upsig=0a1031a3b9419d12771ccd293c775d2d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&mcdnid=2003091&bvc=vod&nettype=0&bw=46817&orderid=0,3&buvid=&build=0&logo=A0000002
+
 央视频道,#genre#
 CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1 综合,http://39.134.65.142/PLTV/88888888/224/3221225816/index.m3u8
