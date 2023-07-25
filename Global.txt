@@ -911,6 +911,74 @@ HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 澳门体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 
 台湾频道,#genre#
+三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+MOMO购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+DW NEWS「德国」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+BREAKING NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+ASIANET NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+警世剧场「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+半岛新闻「阿拉伯」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+未知新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人亚太「纪录」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+ABC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+天才冲冲冲「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+ASTRO AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+Tokyo Shibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+TVBS网路新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+CBN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+欢喜玉玲珑「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+原住民电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+NEWS 18,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+幸福居家空间,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+MIT台湾志,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+MEDIA ONE「印度」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+SUPER FAST NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+ANN NEWS「日本」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+中天新闻「循环直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+LIVE NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+国会频道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+123 GO LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+全球财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+东森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+小猪佩奇「动画」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+动画1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+动画2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+儿童歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+儿童歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+大陆寻奇「纪录」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+靖天电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+猪哥会社「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+公主小妹「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+新玫瑰瞳铃眼「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+未知,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1085,6 +1153,8 @@ BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3
 BBC News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
 BBC News,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
 BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+Bloomberg News Asia,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 Bloomberg Quicktake (1080p),https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
@@ -1102,7 +1172,7 @@ Bloomberg TV US (360p),https://liveprodapnortheast.akamaized.net/ap1/Channel-APT
 Bloomberg TV US (360p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 Bloomberg TV US (180p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,https://list.iptvcat.com/my_list/s/b4a3e8de2af3cdd1d00c2e02fa126cd9.m3u8
 CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
@@ -1142,6 +1212,7 @@ Mav TV Motorsports Network,https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playli
 FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Hallmark,https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 Red Bull TV UHD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT America,https://rt-usa.rttv.com/live/rtusa/playlist.m3u8
 RT UK,https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 Sky News,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
