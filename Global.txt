@@ -117,9 +117,14 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 
 Global,#genre#
-国际
-CNN International,https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+CNN,https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 CNN,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10819
+CNN,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 BBC News,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
 FOX News,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
 FOX New York,http://38.96.178.201:80/live/FOXHD/index.m3u8
