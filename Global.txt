@@ -254,6 +254,8 @@ Tastemade Australia,https://hncfree-samsungau.amagi.tv/playlist.m3u8
 Tennis Channel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TNT,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10887
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+Travelxp,https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 USA,http://38.96.178.201:80/live/USA/index.m3u8
 Xplore,http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
@@ -422,7 +424,7 @@ Supertoons TV,https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 TNTV (1080p),https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 Wildside TV (720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
-UK_rakuten,#genre#
+UK_Rakuten,#genre#
 Bloomberg TV (1080p),https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN International Europe (720p),https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 Fashion TV (1080p),https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -436,11 +438,56 @@ Rakuten Top Free UK (720p),https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist
 Revry News (720p),https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 Travel XP (720p),https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-AU_rakuten,#genre#
+AU_Rakuten,#genre#
 Rakuten TV Action Movies Austria (720p),https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
 Rakuten TV Comedy Movies Austria (720p),https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
 Rakuten TV Drama Movies Austria (720p),https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
 Rakuten TV Family Movies Austria (720p),https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
+
+NZ_Samsung,#genre#
+Action Hollywood Movies,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+Ausbiz TV,https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+Bloomberg Quicktake,https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
+Bloomberg TV,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+Bounty,https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+CineView,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+Clubbing TV,https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+Drybar Comedy,https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+Dust,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+EuroNews,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+Gusto TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+Horse and Country Free,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+Introuble,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublenz-samsungnz/playlist.m3u8
+InWonder,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
+Kartoon Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+Made in Hollywood,https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+Magellen TV,https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
+Motorvision.TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+Mtrspt 1,https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
+Nosey,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
+Now 70's,https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+Now 80's,https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+NOW Rock,https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+Pulse TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+Real Crime,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+Real Life,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
+Real Stories,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+Real Wild,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+Revry,https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
+Ryan and Friends,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+Tastemade International,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+The Design Network,https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
+Timeline,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+Trace Urban,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+Travel XP,https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+TrueCrimeNow.us,https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
+Wonder,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+Zoo Moo (1080p),https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+Zoo Moo (1080p),https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 央视,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
