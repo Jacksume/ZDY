@@ -332,8 +332,6 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 #EXTINF:-1 group-title="Global频道",CNBC
 http://23.237.98.42:8080/USA_CNBC/index.m3u8
 #EXTINF:-1 group-title="Global频道",CNN
-https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="Global频道",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global频道",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
