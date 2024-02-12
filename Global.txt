@@ -234,6 +234,9 @@ KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+MOVIE SPHERE,https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+MOVIE SPHERE,https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+MyTime Movie Network,https://mytime-tcl.amagi.tv/playlist288-p.m3u8
 NBA,http://38.96.178.201/live/NBA/index.m3u8
 NBC新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
