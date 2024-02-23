@@ -411,6 +411,8 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global频道",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Global频道",Flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="Global频道",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="Global频道",Food Network
@@ -449,6 +451,8 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
 #EXTINF:-1 group-title="Global频道",HBO FAMILY
 http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Global频道",HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 group-title="Global频道",History
 http://38.96.178.201:80/live/History/index.m3u8
 #EXTINF:-1 group-title="Global频道",HOY TV
@@ -513,6 +517,10 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global频道",USA
 http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 group-title="Global频道",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="Global频道",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u
 #EXTINF:-1 group-title="Global频道",Xplore
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="Global频道",翡翠台
