@@ -209,6 +209,7 @@ FASHION 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Fashion TV,https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+Flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Food Network,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 Football,http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
@@ -228,6 +229,7 @@ GB News,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manif
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBO 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
 HBO FAMILY,http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
 History,http://38.96.178.201:80/live/History/index.m3u8
 HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
@@ -260,6 +262,8 @@ TNT,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10887
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 Travelxp,https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 USA,http://38.96.178.201:80/live/USA/index.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u
 Xplore,http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
