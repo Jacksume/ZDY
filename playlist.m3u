@@ -82,9 +82,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3
 #EXTINF:-1 group-title="央视频道",CGTN阿语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="卫视频道",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 group-title="卫视频道",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
@@ -528,12 +528,34 @@ http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 group-title="Global频道",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 group-title="Global频道",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
+#EXTINF:-1 group-title="Global频道",凤凰中文
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 group-title="Global频道",凤凰资讯
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="Global频道",凤凰资讯
+https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰资讯
+http://113.64.145.9:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰中文
+http://113.64.145.9:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰香港
+http://113.64.145.9:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰香港
+http://dasdasd.x3322.net:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰资讯
+http://dasdasd.x3322.net:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰中文
+http://dasdasd.x3322.net:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 group-title="Global频道",环球电视
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="Global频道",明珠台
+#EXTINF:-1 group-title="凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8",明珠台
 http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 group-title="江苏本地",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
