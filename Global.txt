@@ -19,6 +19,19 @@ CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/32212258
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CGTN,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 卫视频道IPv6,#genre#
+鳳凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+鳳凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
+凤凰中文,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
+凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+凤凰资讯,http://113.64.145.9:8081/hls/36/index.m3u8
+凤凰中文,http://113.64.145.9:8081/hls/37/index.m3u8
+凤凰香港,http://113.64.145.9:8081/hls/38/index.m3u8
+凤凰香港,http://dasdasd.x3322.net:8081/hls/38/index.m3u8
+凤凰资讯,http://dasdasd.x3322.net:8081/hls/36/index.m3u8
+凤凰中文,http://dasdasd.x3322.net:8081/hls/37/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -51,8 +64,6 @@ CGTN,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000000052
 青海卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?IAS
 新疆卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?IAS
 内蒙古卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
-鳳凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-鳳凰資訊,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 
 Global频道,#genre#
 ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -204,21 +215,6 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u
 Xplore,http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
-凤凰中文,https://edge2.laotv.la/live/PhxChinese/index.m3u8
-凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
-凤凰资讯，http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-凤凰资讯,http://113.64.145.9:8081/hls/36/index.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,http://113.64.145.9:8081/hls/37/index.m3u8
-凤凰香港,http://113.64.145.9:8081/hls/38/index.m3u8
-凤凰香港,http://dasdasd.x3322.net:8081/hls/38/index.m3u8
-凤凰资讯,http://dasdasd.x3322.net:8081/hls/36/index.m3u8
-凤凰中文,http://dasdasd.x3322.net:8081/hls/37/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 
