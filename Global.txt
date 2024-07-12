@@ -24,6 +24,7 @@ CGTN,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000000052
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰资讯.http://113.64.147.87:8081/hls/36/index.m3u8
 凤凰卫视.http://113.64.147.87:8081/hls/37/index.m3u8
 凤凰香港.http://113.64.147.87:8081/hls/38/index.m3u8
@@ -138,11 +139,15 @@ Discovery Channel,http://38.96.178.201:80/live/Discovery/index.m3u8
 Discovery Family,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10826
 Discovery ID,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10827
 Discovery Science,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10828
+Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
+Discovery HD,http://61.221.215.25:8800/hls/1/index.m3u8
+
 Disney Channel,http://38.96.178.201:80/live/Disney/index.m3u8
 Disney XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
 Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 Duck TV,https://mmm-ducktv-4-ie.samsung.wurl.tv/playlist.m3u8
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+DW English,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 DW News,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 DW News,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 DW News,https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
@@ -168,6 +173,7 @@ Food Network,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 Football,http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
 FOX New York,http://38.96.178.201:80/live/FOXHD/index.m3u8
 FOX News,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
+FOX News,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX Sports 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10839
 FOX Sports 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10840
 Foxnews,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
@@ -195,6 +201,7 @@ MyTime Movie Network,https://mytime-tcl.amagi.tv/playlist288-p.m3u8
 NBA,http://38.96.178.201/live/NBA/index.m3u8
 NBC新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+NBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -222,7 +229,34 @@ Xplore,http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
-
+TVB Live Show,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/playlist.m3u8
+TVB Thai,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+TVBS,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
+TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+东森电影,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森戏剧,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
+东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森洋片,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
+非凡新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
+翡翠台,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
+华视,http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
+华视新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
+寰宇新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
+镜新闻,http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
+美国mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+美亚电影台,https://epg.pw/stream/3a784e35be6bd74c855757e59bd3b78631bac4016a32e5dc0bc4ae4908243a33.m3u8
+民视,http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+三立LIVE,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+三立新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
 江苏本地,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州新闻综合,http://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
