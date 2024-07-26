@@ -134,6 +134,7 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNBC,http://23.237.98.42:8080/USA_CNBC/index.m3u8
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN,http://tv.cloudcdn.me/live.ts?channelId=50&uid=8164&deviceMac=00:1A:79:17:D4:A1
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
@@ -149,8 +150,11 @@ Discovery Channel,http://38.96.178.201:80/live/Discovery/index.m3u8
 Discovery Family,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10826
 Discovery ID,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10827
 Discovery Science,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10828
+Discovery Science SD,https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 Discovery HD,http://61.221.215.25:8800/hls/1/index.m3u8
+Discovery Engliah HD,https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
+Discovery Engliah HD,https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 
 Disney Channel,http://38.96.178.201:80/live/Disney/index.m3u8
 Disney XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
@@ -203,6 +207,7 @@ History,http://38.96.178.201:80/live/History/index.m3u8
 HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 MOVIE SPHERE,https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -212,6 +217,7 @@ NBA,http://38.96.178.201/live/NBA/index.m3u8
 NBC新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 NBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
+Net Geo wild,http://tv.cloudcdn.me/live.ts?channelId=177&uid=8164&deviceMac=00:1A:79:17:D4:A1
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -231,9 +237,13 @@ Tastemade Australia,https://hncfree-samsungau.amagi.tv/playlist.m3u8
 Tennis Channel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TNT,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10887
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-Travelxp,https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+Travel XP,https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+Travel XP,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+Travel XP,http://11plus.live/live/travelxp/index.m3u8
 USA,http://38.96.178.201:80/live/USA/index.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
 Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u
 Xplore,http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
