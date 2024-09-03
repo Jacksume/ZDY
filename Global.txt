@@ -164,7 +164,6 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 Discovery HD,http://61.221.215.25:8800/hls/1/index.m3u8
 Discovery Engliah HD,https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 Discovery Engliah HD,https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
-
 Disney Channel,http://38.96.178.201:80/live/Disney/index.m3u8
 Disney XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
 Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
@@ -252,7 +251,6 @@ Travel XP,http://11plus.live/live/travelxp/index.m3u8
 USA,http://38.96.178.201:80/live/USA/index.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
 Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u
 Xplore,http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
@@ -450,7 +448,7 @@ Supertoons TV,https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 TNTV (1080p),https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 Wildside TV (720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
-UK_Rakuten,#genre#
+UK-Rakuten,#genre#
 Bloomberg TV (1080p),https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN International Europe (720p),https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 Fashion TV (1080p),https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -464,13 +462,13 @@ Rakuten Top Free UK (720p),https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist
 Revry News (720p),https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 Travel XP (720p),https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-AU_Rakuten,#genre#
+AU-Rakuten,#genre#
 Rakuten TV Action Movies Austria (720p),https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
 Rakuten TV Comedy Movies Austria (720p),https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
 Rakuten TV Drama Movies Austria (720p),https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
 Rakuten TV Family Movies Austria (720p),https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
 
-NZ_Samsung,#genre#
+NZ-Samsung,#genre#
 Action Hollywood Movies,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 Ausbiz TV,https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
 Bloomberg Quicktake,https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
